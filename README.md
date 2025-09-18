@@ -8,5 +8,3 @@
 - Warning: May contain traces of spaghetti code 🍝
 
 ---
-
-## 📦 Secret Formula
